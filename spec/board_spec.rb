@@ -1,4 +1,4 @@
-"board" = ["", "", ""]
+board = ["0", "1", "2"]
 
 describe "lib/board.rb" do
   it 'defines a local variable `board`' do

@@ -1,1 +1,4 @@
-# Define the variable board below.
+# Defi ne the variable board below.
+board=[" "," "," "," "," "," "," "," "," "]
+
+

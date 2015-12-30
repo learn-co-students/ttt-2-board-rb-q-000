@@ -1,2 +1,3 @@
 # Define the variable board below.
-board = ["O ", " X", " O", " ", " ", " ", " ", " ", " "]
+#board = ["O ", " X", " O", " ", " ", " ", " ", " ", " "]
+board = [" "," "," "," "," "," "," "," "," "]

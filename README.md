@@ -57,7 +57,7 @@ An ASCII Cat:
 
 ### Representing the Board as an Array
 
-Now that we have simplified the concept of a Tic Tac Toe board to a collection of 9 positions or cells, easily identified by number, how can we represent this in code? What tool do we have at our disposable that can represent a collection of things? Is there some magical way to store data in ruby as an ordered, indexed, list? If you're thinking "We can use an Array!", you're absolutely right.
+Now that we have simplified the concept of a Tic Tac Toe board to a collection of 9 positions or cells, easily identified by number, how can we represent this in code? What tool do we have at our disposal that can represent a collection of things? Is there some magical way to store data in ruby as an ordered, indexed, list? If you're thinking "We can use an Array!", you're absolutely right.
 
 We need an array that has 9 elements. Each element in the array represents a position in the board. The first element in the array, index 0, is actually position 1 on the board, the top left corner. We'll represent the value of a position with a string that has a single space, `" "`.
 
@@ -93,6 +93,8 @@ row #=> [" ", "X", " "]
 
 1. Define a local variable in `lib/board.rb` called `board`
 2. Set the `board` local variable equal to an array.
-3. Fill the `board` array with 9 empty strings: `" "`.
+3. Fill the `board` array with 9 strings containing a single space: `" "`.
 4. Run `learn` and read output and fix any errors.
 5. Submit your solution with `learn submit`.
+
+<a href='https://learn.co/lessons/ttt-2-board-rb' data-visibility='hidden'>View this lesson on Learn.co</a>

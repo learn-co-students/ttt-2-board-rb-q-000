@@ -9,3 +9,4 @@ board.push(" ")
 board.push(" ")
 board.push(" ")
 board.push(" ")
+puts board

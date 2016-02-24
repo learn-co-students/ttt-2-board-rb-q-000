@@ -1,2 +1,6 @@
 # Define the variable board below.
-board = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
+#Literal constructor
+#board = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
+
+#Class constructor
+board = Array.new(9, " ")

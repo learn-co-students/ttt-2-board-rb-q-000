@@ -1,2 +1,5 @@
-# Define the variable board below.
-row = [" "," "," "," "," "," "," "," "," "]
+board = variable
+
+board =[]
+
+board =[" "," "," "," "," "," "," "," "," "]

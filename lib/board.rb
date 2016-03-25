@@ -1,4 +1,3 @@
-row = [" ", " ", " "]
 # position 1 : left
 row [0]
 # position 2 : middle

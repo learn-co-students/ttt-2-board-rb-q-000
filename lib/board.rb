@@ -5,14 +5,14 @@ row [0]
 row [1]
 # position 3 : right
 row [2]
-row = [" ", " ", " "]
+
 # position 1 : left
 row [3]
 # position 1 : middle
 row [4]
 # position 1 : right
 row [5]
-row = [" ", " ", " "]
+
 # position 1 : left
 row [6]
 # position 1 : middle

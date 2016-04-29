@@ -1,1 +1,4 @@
-# Define the variable board below.
+# Define the variable board below
+x = "board"
+board = Array.new
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]

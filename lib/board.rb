@@ -3,20 +3,20 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 
 # Position 1: Top Left
-row[0]
+board[0]
 # Position 2: Top Middle
-row[1]
+board[1]
 # Position 3: Top Right
-row[2]
+board[2]
 # Position 4: Mid Left
-row[3]
+board[3]
 # Position 5: Mid Middle
-row[4]
+board[4]
 # Position 6: Mid Right
-row[5]
+board[5]
 # Position 7: Bottom Left
-row[6]
+board[6]
 # Position 8: Bottom Middle
-row[7]
+board[7]
 # Position 9: Bottom Right
-row[8]
+board[8]

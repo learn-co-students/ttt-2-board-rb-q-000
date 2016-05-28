@@ -1,1 +1,3 @@
-# Define the variable board below.
+ board= 'board'
+board= ["x","x","x","x","x","x","x","x","x"]
+board= [" "," "," "," "," "," "," "," "," "]

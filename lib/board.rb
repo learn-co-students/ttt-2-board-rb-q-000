@@ -1,4 +1,4 @@
 # Define the variable board below.
 BLANK = " "
 
-board = [BLANK]*9
+board = Array.new(9){ BLANK }

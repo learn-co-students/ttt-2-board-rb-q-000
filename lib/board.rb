@@ -1,1 +1,2 @@
-# Define the variable board below.
+#  tbhe variable boar
+board = [" ", " ", " ", " "," ", " ", " ", " ", " "] 

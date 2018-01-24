@@ -1,1 +1,5 @@
-# Define the variable board below.
+board =[" "," "," "," "," "," "," "," "," "]
+
+def greeting
+  "hello World"
+end

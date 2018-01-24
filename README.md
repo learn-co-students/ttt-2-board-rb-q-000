@@ -80,7 +80,7 @@ row[1] = "X"
 row #=> [" ", "X", " "]
 ```
 
-*Note: You should not create a multi-dimensional or nested array. The array should be flat and have only string values.*
+*Note: You should create a simple array with one element for each position on the board. There are some more complex ways you could solve this with an array for each row of the board saved within the array for the board (a nested or multi-dimensional array). Don't do that - it'll just make your code harder to work with for now.
 
 *Remember: Represent a position in the board array as a string with a space in it: `" "`*
 
@@ -97,4 +97,4 @@ row #=> [" ", "X", " "]
 4. Run `learn` and read output and fix any errors.
 5. Submit your solution with `learn submit`.
 
-<a href='https://learn.co/lessons/ttt-2-board-rb' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-2-board-rb' title='Tic Tac Toe Board'>Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
